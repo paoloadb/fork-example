@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "types": [
+        // ... your other types
+        "node"
+      ],
+      "lib": ["ES2021.String"],
+    },
+  }
+  
